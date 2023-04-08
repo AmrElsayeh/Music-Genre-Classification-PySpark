@@ -1,8 +1,7 @@
 # Music-Genre-Classification-PySpark 🎶
-Have you ever wondered what makes us, humans, able to tell apart two songs of different genres? How we do we inherenly know the difference between a pop song and heavy metal? This type of classifcation may seem easy for us, but it's a very difficult challenge for a computer to do. So the question is, could an automatic genre classifcation model be possible? <br> <br>
-For this project we will be **using PySpark for Classifying songs based on a number of characteristics into a set of 23 electronic genres.**
-<br>
-This technology could be used by an application like Pandora to recommend songs to users or just create meaningful channels. Super fun!
+Have you ever questioned how it is that humans can distinguish between two songs from completely different genres? How do we innately distinguish between heavy metal and pop music? Although this kind of classification may seem simple to us, a machine would find it quite challenging to do. Hence, the question is: Is it possible to develop an automatic genre classification model? <br> <br>
+For this project, **PySpark** will be used to categorise music into a collection of **23 electronic genres** based on a variety of attributes.<br>
+An application like Pandora might use this technique to suggest songs to users or just to make interesting channels. amazing fun!
 
 ## Dataset
 ### Source: https://www.kaggle.com/caparrini/beatsdataset
